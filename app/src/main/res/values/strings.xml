@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">prak4_JsonVar3_Vysotskiy</string>
+    <string name="welcome">Дарова</string>
+    <string name="enterName">Введите ваше имя</string>
+    <string name="log_in">Войти</string>
+    <string name="collection">Коллекция фильмов</string>
+    <string name="titleFilm">Название фильма</string>
+    <string name="publishYear">Год выпуска</string>
+    <string name="genre">Жанр</string>
+    <string name="budget">Бюджет</string>
+    <string name="movieAdd">Добавить фильм</string>
+    <string name="showCollection">Показать коллекцию</string>
+    <string name="poyavitFilm">Здесь появятся фильмы</string>
+</resources>
